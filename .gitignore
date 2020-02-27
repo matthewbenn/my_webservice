@@ -1,0 +1,11 @@
+node_modules
+.tmp
+.DS_store
+build
+.vscode
+*.sublime*
+yarn.lock
+npm-debug.log
+*.orig
+dist
+data
